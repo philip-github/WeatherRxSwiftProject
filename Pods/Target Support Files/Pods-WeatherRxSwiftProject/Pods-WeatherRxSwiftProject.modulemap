@@ -1,0 +1,6 @@
+framework module Pods_WeatherRxSwiftProject {
+  umbrella header "Pods-WeatherRxSwiftProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
