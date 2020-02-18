@@ -9,4 +9,5 @@ target 'WeatherRxSwiftProject' do
     pod 'RxSwift'
   	pod 'RxCocoa'
   	pod 'RxAlamofire'
+	pod 'ViewAnimator'
 end
